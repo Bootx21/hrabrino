@@ -10,3 +10,8 @@ kyshta-180m2-rodopi-s.hrabrino/hs270461
 kyshta-180m2-plovdiv-s.hrabrino/hs270891
 
 kyshta-210m2-rodopi-s.hrabrino/hs255351
+kyshta-470m2-plovdiv-s.hrabrino/hs289079
+kyshta-120m2-rodopi-s.hrabrino/hs288812
+kyshta-120m2-plovdiv-s.hrabrino/hs288242
+kyshta-222m2-plovdiv-s.hrabrino/hs286426
+kyshta-168m2-plovdiv-s.hrabrino/hs286413

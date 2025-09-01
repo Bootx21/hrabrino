@@ -33,7 +33,7 @@ def send_email(link):
         connection.login(user=address, password=password)
         connection.sendmail(
             from_addr=address,
-            to_addrs=[address, 'mari_laroy@yahoo.com'],
+            to_addrs=[address, 'bootx2@gmail.com'],
             msg=f"Subject:New house for sale in Hrabrino!!\n\n"
                 f"{link}")
 def search_alo():
